@@ -1,5 +1,5 @@
 # hello-world
 Test description
 
-# Test line with '#'
-Test line without '#'
+# Test line starting with '#'
+Test line not starting with '#'
